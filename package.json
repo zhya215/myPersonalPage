@@ -1,5 +1,5 @@
 {
-  "name": "yelp-express",
+  "name": "my-page",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.11.2",
-    "jade": "^1.9.1",
-    "lodash": "^3.0.1"
+    "lodash": "^3.0.1",
+    "body-parser": "^1.4.3",
+    "monk": "^0.9.1"
   }
 }
